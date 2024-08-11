@@ -7,6 +7,7 @@
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-PavelCardash-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Reptiloid_from_Nubiru)
 ---
 ### 🤝 Социальные сети:
+
   <div id="badges">
     <a href="https://www.linkedin.com/in/pavel-kardash-150921232/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
@@ -15,7 +16,9 @@
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
     </a>
   </div>
+  
 ---
+
 ### 💻 Технологии:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
